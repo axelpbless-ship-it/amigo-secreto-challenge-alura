@@ -20,3 +20,13 @@ La aplicación está hecha con HTML, CSS y JavaScript puro, sin frameworks exter
 - Una vez que la lista esté completa, hacer clic en Sortear amigo para elegir al amigo secreto.
 
 El resultado se mostrará en pantalla.
+
+<h2> Estructura del proyecto </h2>
+/amigo-secreto
+│
+├─ index.html          # Página principal
+├─ style.css           # Estilos de la página
+├─ app.js              # Lógica de JavaScript
+└─ assets/             # Imágenes y recursos
+   ├─ amigo-secreto.png
+   └─ play_circle_outline.png
